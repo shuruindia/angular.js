@@ -9,3 +9,6 @@ assertion expects is defined and matches the type mentioned in the error.
 
 If the type is `undefined`, make sure any newly added controllers/directives/services are properly
 defined and included in the script(s) loaded by your page.
+
+
+Sometimes this we get this error because we not refered our js files to index.html
